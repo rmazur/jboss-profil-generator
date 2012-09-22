@@ -1,6 +1,13 @@
 *.class
-
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.ear
+# eclipse files
+.classpath
+.project
+.settings
+# temp files produced by editors
+*~
+# mvn target dir
+target
